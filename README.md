@@ -34,7 +34,8 @@ The dataset used in this project contains information about customer responses t
 ## Analysis
 
 I performed a comprehensive analysis to understand how different marketing campaigns performed in terms of customer acceptance and response rates. I explored key metrics such as campaign acceptance rates, response rates, and their trends .
-![Uploading Marketing_cam_Dash_page-0003.jpg…]()
+
+![Marketing_cam_Dash_page-0003](https://github.com/yuvarajrajdata/marketing_campaign_insight_analysis/assets/126889862/ce5a19fd-1885-4a0e-94d4-265393438380)
 
 ## Results
 
